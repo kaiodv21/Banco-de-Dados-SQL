@@ -11,7 +11,6 @@ Projeto que simula o funcionamento básico de um sistema de farmácia, com foco 
 - **Relacionamento entre tabelas** utilizando chaves estrangeiras.
 - **Cadastro de medicamentos** com informações como nome, dosagem, fabricante, preço e estoque.
 - Registro de **compras de medicamentos**, ligando cliente, medicamento, quantidade e data da compra.
-- **Trigger de auditoria** que grava automaticamente alterações feitas nas tabelas (inserções, atualizações e exclusões).
 
  Tabelas criadas:
 - `Farmacia` (ClienteID, Nome, Email, Telefone)
@@ -25,5 +24,5 @@ Projeto que simula o funcionamento básico de um sistema de farmácia, com foco 
 
 ---
 
-**Autor:Francisco Kaio Pereira Gomes  
-**Contato:gomeskaio238@gmail.com
+Autor:Francisco Kaio Pereira Gomes  
+Contato:gomeskaio238@gmail.com
