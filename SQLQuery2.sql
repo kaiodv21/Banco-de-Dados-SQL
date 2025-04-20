@@ -1,0 +1,7 @@
+CREATE TABLE Farmacia (
+ ClienteID INT PRIMARY KEY IDENTITY(1,1),
+     Nome NVARCHAR(100) NOT NULL,
+     Email NVARCHAR (100) UNIQUE, 
+	 Telefone NVARCHAR(20), 
+	 DataCadastro DATE DEFAULT GETDATE()
+);
