@@ -1,6 +1,6 @@
 # Portfólio de Projetos em SQL
 
-Este repositório reúne meus projetos desenvolvidos em **SQL**, voltados para prática e demonstração de habilidades com **modelagem de banco de dados relacional**, **triggers**, e **relacionamentos entre tabelas**.
+Este repositório reúne meus projetos desenvolvidos em **SQL**, voltados para prática e demonstração de habilidades com **modelagem de banco de dados relacional** e **relacionamentos entre tabelas**.
 
 Projetos incluídos
 
